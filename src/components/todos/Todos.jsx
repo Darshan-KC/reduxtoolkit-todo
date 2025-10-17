@@ -4,7 +4,7 @@ import { removeTodo } from "../../features/todos/todoSlice"
 
 function Todos() {
     const dispatch = useDispatch();
-    const todos = useSelector(state => state.todos);
+    const todos = useSelector(state => state.todo.todos);
     return (
         <>
             <div className="text-center text-2xl my-2">Todos</div>
