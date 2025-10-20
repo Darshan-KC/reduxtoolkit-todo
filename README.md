@@ -238,8 +238,17 @@ state management from scratch.
 
 ## 📄 License
 
-This project is for **educational purposes** --- feel free to use and
-modify!
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software in compliance with the license terms.
+Use responsibly and only for **educational purposes**.
+
+## ©️ Copyright
+
+© 2025 Darshan KC 
+All rights reserved.  
+REDUXTOOLKIT-TODO is an open-source project released under the MIT license.
 
 ------------------------------------------------------------------------
 
